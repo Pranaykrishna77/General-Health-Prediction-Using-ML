@@ -10,7 +10,7 @@ This project involves the development of a machine learning-based system designe
 *Data Preprocessing: Expertise in data preprocessing was demonstrated to prepare the dataset for training and ensure optimal model performance.
 <br>
 <br>
-#### Technologies Used:
+## **Key Features**:
 <br>
 <br>
 *Programming Language: Python
