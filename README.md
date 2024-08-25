@@ -11,6 +11,7 @@ This project involves the development of a machine learning-based system designe
 <br>
 <br>
 ## Technologies Used
+---
 <br>
 <br>
 *Programming Language: Python
