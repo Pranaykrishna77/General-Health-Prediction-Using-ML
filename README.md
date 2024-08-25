@@ -35,5 +35,5 @@ This project focuses on developing a machine learning-based system designed to p
 
 ## **Results and Impact**:
 
-- **Diagnostic Accuracy Improvement**: Through the implementation of advanced machine learning models, the system achieved a 15% increase in diagnostic accuracy.
-- **Reliability Enhancement**: Conducted extensive research and model optimization, resulting in a 20% reduction in prediction error rates.
+- **Diagnostic Accuracy Improvement**
+- **Enhanced Decision-Making**
